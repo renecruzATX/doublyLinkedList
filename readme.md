@@ -1,1 +1,1 @@
-Singly Linked List with methods
+Doubly Linked List with methods
